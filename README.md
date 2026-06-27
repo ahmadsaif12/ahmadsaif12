@@ -12,7 +12,6 @@
 ### Connect with me:
 <p align="left">
 <a href="mailto:ahmads87237@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -44,4 +43,5 @@
 </tr>
 </table>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadsaif12&theme=default)
+### 🔥 Contribution Streak
+![Streak](https://streak-stats.demolab.com?user=ahmadsaif12&theme=default)
