@@ -35,25 +35,16 @@
 
 ### 🚀 Tech Stack
 
-<p align="center">
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,go&theme=dark" alt="Languages" />
-</p>
-
-<p align="center">
-  <b>Frameworks & Stack</b><br/>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,mongodb&theme=dark" alt="Frameworks" />
-</p>
-
-<p align="center">
-  <b>Web</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" />
-</p>
-
-<p align="center">
-  <b>DevOps & Cloud</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&theme=dark" alt="DevOps & Cloud" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b><br/><img src="https://skillicons.dev/icons?i=python,js,go&theme=dark" alt="Languages" /></td>
+    <td align="center"><b>Frameworks</b><br/><img src="https://skillicons.dev/icons?i=django,nodejs,express,mongodb&theme=dark" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web</b><br/><img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" /></td>
+    <td align="center"><b>DevOps & Cloud</b><br/><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&theme=dark" alt="DevOps & Cloud" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
