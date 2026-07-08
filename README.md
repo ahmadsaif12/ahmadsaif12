@@ -35,32 +35,27 @@
 
 ### 🚀 Tech Stack
 
-<p align="center">
-  <b>Languages</b> &nbsp; <img src="https://skillicons.dev/icons?i=python,js,go&theme=dark" alt="Languages" />
-</p>
-
-<p align="center">
-  <b>Frameworks</b> &nbsp; <img src="https://skillicons.dev/icons?i=django,nodejs,express,mongodb&theme=dark" alt="Frameworks" />
-</p>
-
-<p align="center">
-  <b>Web</b> &nbsp; <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" />
-</p>
-
-<p align="center">
-  <b>DevOps & Cloud</b> &nbsp; <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&theme=dark" alt="DevOps & Cloud" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🐍 Contribution Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ahmadsaif12/ahmadsaif12/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%" />
+  <img src="https://raw.githubusercontent.com/ahmadsaif12/ahmadsaif12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%" />
   <br/>
   <sub>A daily snapshot of my GitHub activity 🌱</sub>
 </div>
