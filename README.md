@@ -71,9 +71,7 @@
 
 ---
 
-### 📫 Let's Connect
-<p align="left">
-<a href="mailto:ahmads87237@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmadsaif12/ahmadsaif12/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-- 📧 Email: ahmads87237@gmail.com
