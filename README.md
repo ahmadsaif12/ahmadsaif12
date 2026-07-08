@@ -71,7 +71,7 @@
 
 ---
 
-### 📈 GitHub Metrics
+### 📅 Activity Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadsaif12/ahmadsaif12/main/metrics.svg" alt="metrics dashboard" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadsaif12&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
