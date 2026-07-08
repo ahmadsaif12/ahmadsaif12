@@ -18,11 +18,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # No need to create a personal token — GitHub Actions provides
-          # this automatically for every workflow run
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Where the generated image will be saved in this repo
           filename: metrics.svg
 
           # --- Base look ---
