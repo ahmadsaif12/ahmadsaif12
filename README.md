@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saif Ahmad</h1>
-<h3 align="center">Backend Developer | Junior DevOps Enthusiast | Python, Django & Node.js</h3>
+<h3 align="center">Backend Developer | Junior DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Saif+Ahmad;Backend+Developer;Python+%26+Django+Enthusiast;MERN+Stack+Learner;Always+Learning;&center=true&width=500&height=45&color=00FFCC&vCenter=true&size=22" alt="Typing SVG" />
@@ -34,13 +34,30 @@
 ---
 
 ### 🚀 Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mongodb,go,js,html,css,docker,kubernetes,aws,redis,git&theme=dark" alt="Tech Stack" />
-  </a>
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,go&theme=dark" alt="Languages" />
 </p>
+
+<p align="center">
+  <b>Frameworks & Stack</b><br/>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,mongodb&theme=dark" alt="Frameworks" />
+</p>
+
+<p align="center">
+  <b>Web</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" />
+</p>
+
+<p align="center">
+  <b>DevOps & Cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&theme=dark" alt="DevOps & Cloud" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 ---
