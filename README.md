@@ -71,7 +71,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 GitHub Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadsaif12/ahmadsaif12/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ahmadsaif12/ahmadsaif12/main/metrics.svg" alt="metrics dashboard" />
 </p>
