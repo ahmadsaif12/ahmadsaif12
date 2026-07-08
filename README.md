@@ -40,12 +40,5 @@
 
 ### 📅 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadsaif12&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadsaif12&theme=darkhub&column=7&margin-w=15" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadsaif12&theme=react-dark&hide_border=true&area=true&custom_title=Saif's%20Contribution%20Activity&bg_color=0d1117&color=00FFCC&line=00FFCC&point=ffffff" alt="activity graph" />
 </p>
