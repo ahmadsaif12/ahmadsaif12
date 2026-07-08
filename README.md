@@ -41,36 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Most Used Languages**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsaif12&layout=compact&theme=default)
-
-</td>
-<td valign="top" width="50%">
-
-**Saif's GitHub Stats**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmadsaif12&show_icons=true&theme=default)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmadsaif12&theme=default" alt="streak stats" />
-</p>
-
----
-
 ### 📅 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadsaif12&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
