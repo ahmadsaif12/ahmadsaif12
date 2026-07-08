@@ -41,10 +41,10 @@
 
 <br/>
 
-### 📅 Contribution Activity
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadsaif12&theme=react-dark&hide_border=true&area=true&custom_title=Saif's%20Contribution%20Activity&bg_color=0d1117&color=00FFCC&line=00FFCC&point=ffffff" alt="Activity Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ahmadsaif12/ahmadsaif12/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
 <br/>
